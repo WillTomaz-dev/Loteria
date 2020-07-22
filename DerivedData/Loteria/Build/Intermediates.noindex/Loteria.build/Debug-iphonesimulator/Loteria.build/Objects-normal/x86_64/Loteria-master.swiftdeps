@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2.1 (swiftlang-1000.11.42 clang-1000.11.45.1)"
+options: "7b435df6d1bf93ecf58b79ebbf0df9e4"
+build_time: [1581699278, 305408000]
+inputs:
+  "/Users/williamtomaz/Downloads/Projetos/OK/Loteria/Loteria/ViewController.swift": [1572020884, 0]
+  "/Users/williamtomaz/Downloads/Projetos/OK/Loteria/Loteria/AppDelegate.swift": [1571859885, 0]

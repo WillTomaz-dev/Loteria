@@ -39,6 +39,11 @@ class ViewController: UIViewController {
         }
         
     }
+    
+    @IBAction func OptionsLoterias(_ sender: Any) {
+        
+    }
+    
     @IBAction func gerarButton(_ sender: Any) {
         
         numeros.removeAll()

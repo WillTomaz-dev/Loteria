@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>9</integer>
+	<key>logs</key>
+	<dict>
+		<key>A37FF9C9-9B15-445C-B3EB-44A2FB15E357</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>A37FF9C9-9B15-445C-B3EB-44A2FB15E357.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Loteria project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Loteria</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Loteria</string>
+			<key>timeStartedRecording</key>
+			<real>603396266.39092898</real>
+			<key>timeStoppedRecording</key>
+			<real>603397469.39425695</real>
+			<key>title</key>
+			<string>Debug Loteria</string>
+			<key>uniqueIdentifier</key>
+			<string>A37FF9C9-9B15-445C-B3EB-44A2FB15E357</string>
+		</dict>
+		<key>D5329430-4661-4EF7-838F-C595CF13FE96</key>
+		<dict>
+			<key>className</key>
+			<string>DBGConsoleLog</string>
+			<key>documentTypeString</key>
+			<string>com.apple.dt.IDE.DebuggerLogContentType</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.DebugLog</string>
+			<key>fileName</key>
+			<string>D5329430-4661-4EF7-838F-C595CF13FE96.xcactivitylog</string>
+			<key>highLevelStatus</key>
+			<string>S</string>
+			<key>schemeIdentifier-containerName</key>
+			<string>Loteria project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Loteria</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Debug Loteria</string>
+			<key>timeStartedRecording</key>
+			<real>603396044.79646695</real>
+			<key>timeStoppedRecording</key>
+			<real>603396263.92962098</real>
+			<key>title</key>
+			<string>Debug Loteria</string>
+			<key>uniqueIdentifier</key>
+			<string>D5329430-4661-4EF7-838F-C595CF13FE96</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
